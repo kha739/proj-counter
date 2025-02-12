@@ -1,0 +1,38 @@
+.dell{
+  background-color: greenyellow;
+  height: 420px;
+  width: 350px;
+  /* border: 2px solid black;  */
+  text-align: center;
+  justify-content: center;
+}
+div{
+  margin-left: 23%;
+  margin-top: 10%;
+}
+
+.sizes{
+  font-size: 50px;
+  color: rgb(168, 244, 101);
+  background-color: black;
+  width: 175px;
+  height: 90px;
+  display: inline;
+  margin-top: 14%;
+}
+.size{
+  font-size: 90px;
+}
+p{
+  margin-top: 10%;
+  
+  
+
+  
+}
+#md{
+  
+  font-size: 30px;
+
+  
+}
